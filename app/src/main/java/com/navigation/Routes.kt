@@ -7,4 +7,6 @@ const val ROUT_HOME = "home"
 const val ROUT_ONBOARDING = "onboarding"
 const val ROUT_SERVICE = "service"
 const val ROUT_INTENT = "intent"
+const val ROUT_SPLASH = "splash"
+const val ROUT_SCAFFOLD = "scaffold"
 
