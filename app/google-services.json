@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214723769355",
+    "project_id": "sokohub-e5f74",
+    "storage_bucket": "sokohub-e5f74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214723769355:android:22d1cf2f51618075f5830e",
+        "android_client_info": {
+          "package_name": "com.serah.sokohub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-Iryjc6P6cXbkY01y8eIimlnWULqq6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

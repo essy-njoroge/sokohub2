@@ -214,7 +214,7 @@ fun AboutScreen(navController: NavController) {
                 title = { Text("Business Cards") },
                 navigationIcon = {
                     IconButton(onClick = { navController.popBackStack() }) {
-                        Icon(Icons.Default.Menuu, contentDescription = "Back")
+                        Icon(Icons.Default.Menu, contentDescription = "Back")
                     }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(

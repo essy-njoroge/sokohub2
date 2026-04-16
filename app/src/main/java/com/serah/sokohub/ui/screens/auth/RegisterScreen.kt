@@ -77,11 +77,8 @@ fun RegisterScreen(navController: NavController){
       //Variables
 
         var username by remember { mutableStateOf("") }
-
         var email by remember { mutableStateOf("") }
-
         var password by remember { mutableStateOf("") }
-
         var confirmpassword by remember { mutableStateOf("") }
 
         //Username
